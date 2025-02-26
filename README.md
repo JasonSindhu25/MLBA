@@ -2,7 +2,7 @@
 
 # Purpose
 
-Looking for junior data analyst position in healthcare indstury
+Applying for Management Trainee position
 
 # Education
 
@@ -17,7 +17,7 @@ Looking for junior data analyst position in healthcare indstury
 
 # Skills
 
-1. sksks
+1. Quality Control
 2. dkdkd
 3. dkdkd
 
